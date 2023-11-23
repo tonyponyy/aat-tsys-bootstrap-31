@@ -1,0 +1,15 @@
+.input-form{
+   display: flex; 
+}
+svg{
+    width: 30px;
+    margin-top: -12px;
+    margin-right: 22px;
+}
+h2,svg{
+    color:#3997FC;
+}
+
+body{
+    background-color: #f5f5f5;
+}

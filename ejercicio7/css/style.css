@@ -1,0 +1,47 @@
+.cabecera {
+    padding: 12px;
+    margin-bottom: 40px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)), url("../img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cabecera svg{
+    color:whitesmoke;
+    height: 60px;
+    width: 30px;
+    display: block;
+}
+
+
+.name{
+    color:azure;
+    -webkit-text-stroke-color: black;
+}
+.subname{
+    color:whitesmoke
+}
+
+
+.container{
+    text-align: center;
+}
+
+.photo{
+    margin-top: 12px;
+    width: 150px;
+    border-radius: 120px;
+    border: 2px solid rgba(0,0,0,0.3);
+}
+.container h1{
+    color:lightblue;
+}
+
+h1 svg{
+    color:black;
+    margin: 12px;
+    width: 64px;
+    background-color: lightblue;
+    padding: 9px;
+    border-radius: 100px;
+}

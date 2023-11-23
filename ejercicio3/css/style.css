@@ -1,0 +1,29 @@
+svg{
+    color:white;
+}
+
+.nav_color{
+    background-color:#2980B9;
+}
+.nav_color2{
+    background-color:#cdd6dc;
+}
+
+.up_navbar svg{
+    color:black;
+}
+
+.up_navbar {
+    background-color:rgb(241, 241, 241);
+    height: 38px;
+}
+
+.back_user{
+    background-color: black;
+}
+
+.signup{
+    height: 16px;
+    margin-right: 12px;
+    font-weight: bolder;
+}

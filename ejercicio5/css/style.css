@@ -1,0 +1,9 @@
+.flex{
+    display: flex;
+}
+.form-select{
+    width:60px;
+}
+.form.control{
+    margin-right: 16px;
+}

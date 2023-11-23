@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(48, 48, 48);
+}
+
+.up_text{
+    color:white;
+}
+
+#lock{
+display: flex;
+}
+
+svg{
+    width: 100px;
+}
+
+.small_font{
+    font-size: 12px;
+}
+
+input{
+margin:12px
+}
+
+form{
+    margin-bottom: 36px;
+    margin-top: 36px;
+}
+
+svg{
+    margin: auto;
+}

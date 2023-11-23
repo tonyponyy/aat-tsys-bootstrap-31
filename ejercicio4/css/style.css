@@ -1,0 +1,25 @@
+.cuadrado{
+    width: 200px;
+    height: 100px;
+    background-color: darkgray;
+}
+
+.top-margin{
+    margin-top: 32px;
+}
+
+body{
+    background-color: gray;
+}
+
+.white{
+    background-color: white;
+    height: 100vh;
+}
+
+.gray{
+    background-color: lightgray;
+    margin-left: -12px;
+    margin-right: -12px;
+    padding: 12px;
+}
